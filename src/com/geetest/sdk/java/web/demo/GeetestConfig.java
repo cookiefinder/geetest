@@ -8,8 +8,8 @@ package com.geetest.sdk.java.web.demo;
 public class GeetestConfig {
 
 	// 填入自己的captcha_id和private_key
-	private static final String geetest_id = "b46d1900d0a894591916ea94ea91bd2c";
-	private static final String geetest_key = "36fc3fe98530eea08dfc6ce76e3d24c4";
+	private static final String geetest_id = "4422a85fa05bc5b04d634833d274ee16";
+	private static final String geetest_key = "802e7c66b8db62fa15dc057c5502d004";
 
 	public static final String getGeetest_id() {
 		return geetest_id;
